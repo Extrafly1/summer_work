@@ -1,0 +1,37 @@
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\bin\Debug\summerWork.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\bin\Debug\summerWork.exe
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\bin\Debug\summerWork.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.Form1.resources
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.exe
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\bin\Debug\NCalc.dll
+C:\Users\Admin\OneDrive\Рабочий стол\summerWork\summerWork\obj\Debug\summerWork.csproj.CopyComplete
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\bin\Debug\summerWork.exe.config
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\bin\Debug\summerWork.exe
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\bin\Debug\summerWork.pdb
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\bin\Debug\NCalc.dll
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.csproj.AssemblyReference.cache
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.Form1.resources
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.Properties.Resources.resources
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.csproj.GenerateResource.cache
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.csproj.CoreCompileInputs.cache
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.csproj.CopyComplete
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.exe
+C:\abc\кубгу\2 курс\summer work\summerWork\summerWork\obj\Debug\summerWork.pdb
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\bin\Debug\summerWork.exe.config
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\bin\Debug\summerWork.exe
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\bin\Debug\summerWork.pdb
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\bin\Debug\MPI.dll
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\bin\Debug\NCalc.dll
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.csproj.AssemblyReference.cache
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.Form1.resources
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.Properties.Resources.resources
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.csproj.GenerateResource.cache
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.csproj.CoreCompileInputs.cache
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.csproj.CopyComplete
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.exe
+C:\abc\кубгу\2 курс\summer work\summerWork — копия\summerWork\obj\Debug\summerWork.pdb
